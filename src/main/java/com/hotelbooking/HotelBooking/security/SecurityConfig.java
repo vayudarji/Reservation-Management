@@ -1,7 +1,7 @@
 package com.hotelbooking.HotelBooking.security;
 
 
-import com.hotelbooking.HotelBooking.service.interfac.CustomUserDetailsService;
+import com.hotelbooking.HotelBooking.service.CustomUserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

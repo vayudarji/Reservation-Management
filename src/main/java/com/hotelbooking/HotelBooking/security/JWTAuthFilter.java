@@ -1,6 +1,6 @@
 package com.hotelbooking.HotelBooking.security;
 
-import com.hotelbooking.HotelBooking.service.interfac.CustomUserDetailsService;
+import com.hotelbooking.HotelBooking.service.CustomUserDetailsService;
 import com.hotelbooking.HotelBooking.utils.JWTUtils;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

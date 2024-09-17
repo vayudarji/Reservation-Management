@@ -1,4 +1,4 @@
-package com.hotelbooking.HotelBooking.service.interfac;
+package com.hotelbooking.HotelBooking.service;
 
 import com.hotelbooking.HotelBooking.exceptions.OurException;
 import com.hotelbooking.HotelBooking.repo.UserRepository;
